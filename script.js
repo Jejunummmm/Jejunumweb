@@ -3,19 +3,19 @@ const menuItems = [
         name: "Bruschetta",
         description: "Fresh tomatoes, basil, and mozzarella on toasted bread",
         price: "$12",
-        image: "images/appetizer.jpg"
+        image: "appetizer.jpg"
     },
     {
         name: "Grilled Salmon",
         description: "Served with seasonal vegetables and lemon butter sauce",
         price: "$25",
-        image: "images/main_course.jpg"
+        image: "main_course.jpg"
     },
     {
         name: "Chocolate Lava Cake",
         description: "Rich chocolate cake with a molten center",
         price: "$8",
-        image: "images/dessert.jpg"
+        image: "dessert.jpg"
     }
 ];
 
